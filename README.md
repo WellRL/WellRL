@@ -1,6 +1,7 @@
-### - 👋 Hi, I’m @WellRL Wellington Ribeiro de Lima
+###  👋 Hi, I’m @WellRL Wellington Ribeiro de Lima
+
 - 👀 I’m interested in game development, programming, C# language;
-- 🌱 I’m currently learning C# and game development in Unity;
+- 🌱 I’m currently learning C#, SQL and game development in Unity;
 
 ## Linkedin: www.linkedin.com/in/wellington-rl
 
