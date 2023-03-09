@@ -2,6 +2,8 @@
 - 👀 I’m interested in game development, programming, C# language;
 - 🌱 I’m currently learning C# and game development in Unity;
 
+## Linkedin: www.linkedin.com/in/wellington-rl
+
 
 <!---
 WellRL/WellRL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
